@@ -1,0 +1,1 @@
+This project is not complete, the idea was to also add a Linux version embedded in the same program, and also a system to understand if Java was installed, but if anyone wants to continue it, go ahead, but I would like the code to be made open source.
